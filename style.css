@@ -1,0 +1,53 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    
+    
+    text-align: center;
+    font-size: 55px;
+    font-weight:bolder;
+    font-family: fantasy;
+    height: 10px;
+    margin: 50px;  
+}
+
+.box1{
+    background-color: grey;
+    border:  20px solid #6699ff;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+
+    
+}
+
+.box2{
+    background-color: grey;
+    border:  20px solid pink;
+    margin: 5px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+
+}
+
+.box3{
+    background-color: grey;
+    border:  20px solid #6699ff;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+
+/*div{
+    display:flex
+}*/
